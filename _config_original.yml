@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: BC Agile Scrum Guide
+name: BC Agile Guides Template
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -31,33 +31,43 @@ expand_nav: true
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: About This Guide
-  url: ag_about/
+- text: Introduction
   internal: true
-- text: What is Agile?
-  url: ag_intro/
+- text: Add a new page
+  url: add-a-new-page/
   internal: true
-- text: Getting Started
-  url: ag_getstarted/
+  children:
+  - text: Make a child page
+    url: make-a-child-page/
+    internal: true
+- text: Add images
+  url: add-images/
   internal: true
-- text: Align With Agile
-  url: ag_alignwithagile/
+- text: Update the config file
+  url: update-the-config-file/
   internal: true
-- text: Create Your Scrum Environment
-  url: ag_create_env/
+  children:
+  - text: Understanding the `baseurl:` property
+    url: understanding-baseurl/
+    internal: true
+- text: GitHub setup
+  url: github-setup/
   internal: true
-- text: Create Your Scrum Team
-  url: ag_create_team/
+- text: Post your guide
+  url: post-your-guide/
+  internal: true
+- text: Advanced features
+  url: advanced-features/
   internal: true
 
 repos:
-- name: Agile Scrum Guide
+- name: Guides Template
   description: Main repository
-  url: https://github.com/bcgov/agile-guide.git
+  url: https://github.com/18F/guides-template
 
 back_link:
-  url: "https://github.com/bcgov/guides/"
-  text: Read more BC Government Guides
+  url: "https://pages.18f.gov/guides/"
+  text: Read more 18F Guides
 
 google_analytics_ua: UA-48605964-19
 

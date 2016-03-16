@@ -1,9 +1,9 @@
 ---
 title: Create Your Scrum Environment
 ---
-#Create Your Scrum Environment
+
 ##Get Internal Support
-Not only should the scrum teams be prepared for the inevitable cultural shift but the organization as a whole needs to understand the product team’s behaviour so that they can interact and communicate effectively. For example, as the scrum team responds to demands from the ministry service or program they may well need to rapidly scale on a temporary basis by interacting with government’s vendor partners. They will need to do this quickly and often without being able to reference defined requirements. Therefore, product teams need to collaborate closely with their colleagues in finance to ensure an appropriate level of service and comfort. 
+Not only should the scrum teams be prepared for the inevitable cultural shift but the organization as a whole needs to understand the product team’s behaviour so that they can interact and communicate effectively. For example, as the scrum team responds to demands from the ministry service or program they may need to rapidly scale on a temporary basis by interacting with government’s vendor partners. They will need to do this quickly and often without being able to reference defined requirements. Therefore, product teams need to collaborate closely with their colleagues in finance to ensure an appropriate level of service and comfort. 
 
 *Tips and tricks can be found in the Agile Wiki [TBD]. Identifying all the key stakeholders and involving them in the transformation to agile is the responsibility of the product team.*
 
@@ -18,15 +18,15 @@ You will be unintentionally challenging the status-quo within your organization 
 Transforming or transitioning to an agile scrum mindset takes time and effort. Your team needs to be included in the dialogue when creating the vision, values and actions necessary to support your new working paradyme. One of the best methods for ensuring this happens is to employ and organizational design strategy. An explanation of how organizational design works can be found at the OD Network.[ADD LINK]
 
 ##Checklist
-* Your ADM must be supportive.
-* There must be an executive sponsor at the Executive Director level.
-* You must develop a vision for your agile transformation i.e. what is the value proposition for your organization? (Refer to the Business Model Canvas for ideas).
-* You must have a dedicated self-organizing team.Ensure that your team will have access to a system like GitHub, ZenHub, JIRA or Trello so that traceability and transparency can occur.
+* Get your ADM on board.
+* Get an executive sponsor at the Executive Director level.
+* Develop a vision for your agile transformation i.e. what is the value proposition for your organization? (Refer to the Business Model Canvas for ideas).
+* Facilitate a dedicated self-organizing team. That is, ensure that your team will have access to a system such as GitHub, ZenHub, JIRA or Trello so that traceability and transparency can occur.
 * Engage your finance team to gain support for flexible team scaling on a time and materials basis.
 * Work with your organization's management teams and share your vision and goals.
-* You need to choose a methodology i.e. Scrum, Kanban.
-* You need to determine one metric that you’re going to track i.e. velocity
-* Foster an environment that accepts user centric or human centered design (the Luma institute or Ideo.org  provide examples of this).
+* Choose a methodology i.e. Scrum, Kanban.
+* Determine one metric that you’re going to track i.e. velocity
+* Foster an environment that accepts user-centric or human-centered design. See the [Luma institute](https://www.luma-institute.com/) or [Ideo.org](https://www.ideo.org/) for examples of this.
 
 ##Identify Stakeholders in Your Organization
 

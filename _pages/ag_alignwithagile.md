@@ -1,10 +1,10 @@
 ---
 title: Align with Agile
 ---
-#Align with Agile
+
 ##Figure Out Why You Want To Become Agile
 
-Agile is a mindset backed by methodologies that leaves a trail of techniques.   For our purposes, any software method is considered agile if it follows the [manifesto](http://agilemanifesto.org/principles.html), which states:
+Agile is a mindset backed by methodologies that leaves a trail of techniques. For our purposes, any software method is considered agile if it follows the [manifesto](http://agilemanifesto.org/principles.html), which states:
 
 * Individual and interactions over processes & tools
 * Working software over comprehensive documentation
@@ -13,7 +13,7 @@ Agile is a mindset backed by methodologies that leaves a trail of techniques.   
 
 And while there is value on the items to the right, the items on the left are valued more.
 
-Within that, the many methodologies that sit under the agile umbrella, typically feature the following characteristics:
+Within that, the many methodologies that sit under the agile umbrella typically feature the following characteristics:
 
 * Incremental product development
 * Iterative delivery
@@ -37,7 +37,7 @@ Setting up a scrum team is half the equation as operating in an agile fashion re
 * open to the concept of transparency on a number of levels as described in the Government’s Open By Default [LINK NEEDED] initiative
 * accepting of the fact that their project artifacts (including code) and methodologies will be open to inspection by people within and outside of their organization 
 
-These are critical behaviours that will improve the understanding of business needs as well as the overall quality of the products produced. Preparing and working to instil these values into the daily functions of the product team is critical. Training resources and links can be found in the Agile Wiki [TBD].
+These are critical behaviours that will improve the understanding of business needs as well as the overall quality of the products produced. Preparing and working to instill these values into the daily functions of the product team is critical. Training resources and links can be found in the Agile Wiki [TBD].
 
 ##Align Your Team with Scrum
 
@@ -45,7 +45,7 @@ Scrum is a process framework that has been used to manage complex product develo
 
 Scrum makes clear the relative efficacy of your product management and development practices so that you can improve. The scrum framework consists of scrum teams and their associated roles, events, artifacts, and rules. For more information please visit the [Scrum Alliance Resources](https://www.scrumalliance.org/why-scrum/scrum-guide). 
 
-![IMAGE HERE](images/agile_methods_used.jpg)
+<img src="{%raw%}{{https://github.com/carolhoward/agile-guide.git}}{%endraw%}/images/agile_methods_used.jpg">
 
 Scrum is the most widely used framework within the agile methodology. Retrieved from https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/
 
