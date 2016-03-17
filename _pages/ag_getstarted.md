@@ -8,4 +8,4 @@ As such, the development and delivery of software has evolved over the past deca
 
 With this in mind, we have identified 20 key steps that, if followed together, will help the BC government build more effective products. 
 
-<img src="{%raw%}{{https://github.com/bcgov/agile-guide.git}}{%endraw%}/images/20steps.pdf" alt="20 Steps">
+<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/20steps.jpg" alt="20 Key Steps">
