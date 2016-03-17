@@ -7,11 +7,11 @@ Not only should the scrum teams be prepared for the inevitable cultural shift bu
 
 *Tips and tricks can be found in the Agile Wiki [TBD]. Identifying all the key stakeholders and involving them in the transformation to agile is the responsibility of the product team.*
 
-##From your Assistant Deputy Minister
+##From Your Assistant Deputy Minister
 
 Experience has proven that to transform your software development processes you need to create an organizational wide vision/mission and goals. To do this you will need the support of your senior executive team.
 
-##From your Executive Director
+##From Your Executive Director
 You will be unintentionally challenging the status-quo within your organization and you need to get the support of management. They will need to build or modify their existing processes and ways of working to accommodate for the scrum processes. [PSA/OCIO change team?]
 
 ##From Your Product Team
