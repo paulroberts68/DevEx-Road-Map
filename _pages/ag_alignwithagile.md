@@ -1,5 +1,5 @@
 ---
-title: Align with Agile
+title: ALIGN WITH AGILE AND SCRUM
 ---
 
 ##Figure Out Why You Want To Become Agile

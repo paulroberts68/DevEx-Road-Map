@@ -1,5 +1,5 @@
 ---
-title: Create Your Scrum Environment
+title: CREATE YOUR SCRUM ENVIRONMENT
 ---
 
 ##Get Internal Support

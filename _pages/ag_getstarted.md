@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: GETTING STARTED
 ---
 
 The B.C. tech sector has embraced the value driven approach of agile development as this framework has proven to be an effective way of managing risk in information technology (IT) based projects. Agile is a mindset that focuses on the delivery of business value and quality to the client in an incremental and iterative manner that provides the most value in the given time. 
@@ -8,5 +8,4 @@ As such, the development and delivery of software has evolved over the past deca
 
 With this in mind, we have identified 20 key steps that, if followed together, will help the BC government build more effective products. 
 
-<img src="{%raw%}{{https://github.com/carolhoward/agile-guide.git}}{%endraw%}/images/20steps.pdf" alt="Example of
-an included image">
+<img src="{%raw%}{{https://github.com/bcgov/agile-guide.git}}{%endraw%}/images/20steps.pdf" alt="20 Steps">

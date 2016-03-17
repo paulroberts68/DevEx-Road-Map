@@ -1,5 +1,5 @@
 ---
-title: Create Your Scrum Team
+title: CREATE YOUR SCRUM TEAM
 ---
 
 ##Develop Your Scrum Processes
@@ -36,6 +36,10 @@ Creating a product feature roadmap is a strategic tool that is a much more detai
 Creating a scrum team is not easy and you should not embark on the journey unless you have prepared the organizational environment to accept your agile experiment. To effectively run and support a scrum team you need “one part confidence, two parts humility and three parts sense of humour” (Fuda, 2009). 
 
 Scrum is based on the concept that there are three fixed quantities, people, time and quality. Therefore, the product manager needs to ensure that the core scrum team has dedicated people that can work on the backlog without distractions. Another quality of a scrum team is synergy, that is, the interaction or cooperation of two or more agents to produce a combined effect greater than the sum of their separate effects. Continued collaboration within team members is essential to create this effect so it’s in the best interests of the organization to keep a scrum team together once formed. Often this will mean that line managers need to effectively “give-up” their staff to the scrum process; a difficult mindshift to establish.
+
+##Co-locate Your Team
+
+Once you have assembled your team, you’ll want to start working to create a vibrant working atmosphere; the aim being to create team synergy. One of the fastest ways to increase team communication, understanding and collaboration is to have them working in close proximity. This includes the user experience (UX), engagement, developers, subject matter experts (SMEs) and private sector team members.
 
 ##Create a Training and Coaching Plan for Your Team
 
