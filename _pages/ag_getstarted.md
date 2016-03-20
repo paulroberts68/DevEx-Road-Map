@@ -9,4 +9,4 @@ As such, the development and delivery of software has evolved over the past deca
 With this in mind, we have identified 20 key steps that, if followed together, will help the BC government build more effective products. 
 
 **Key Steps to Agile Scrum Development in the BC Government**
-<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/20steps.jpg" alt="20 Key Steps">
+<img src="{{site.baseurl}}/images/20steps.jpg" alt="20 Key Steps">
