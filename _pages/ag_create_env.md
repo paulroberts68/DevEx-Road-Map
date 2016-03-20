@@ -1,23 +1,21 @@
 ---
-title: CREATE YOUR SCRUM ENVIRONMENT
+title: Create Your Scrum Environment
 ---
 
 ##Get Internal Support
-Not only should the scrum teams be prepared for the inevitable cultural shift but the organization as a whole needs to understand the product team’s behaviour so that they can interact and communicate effectively. For example, as the scrum team responds to demands from the ministry service or program they may need to rapidly scale on a temporary basis by interacting with government’s vendor partners. They will need to do this quickly and often without being able to reference defined requirements. Therefore, product teams need to collaborate closely with their colleagues in finance to ensure an appropriate level of service and comfort. 
+Not only should the scrum teams be prepared for the inevitable cultural shift, but the organization as a whole needs to understand the product team’s behaviour so that they can interact and communicate effectively. For example, as the scrum team responds to demands from the ministry service or program they may need to rapidly scale on a temporary basis by interacting with government’s vendor partners. They will need to do this quickly and often without being able to reference defined requirements. Therefore, product teams need to collaborate closely with their colleagues in finance to ensure an appropriate level of service and comfort. 
 
 *Tips and tricks can be found in the Agile Wiki [TBD]. Identifying all the key stakeholders and involving them in the transformation to agile is the responsibility of the product team.*
 
-##Support From Your Assistant Deputy Minister
+Get support from your:
 
-Experience has proven that to transform your software development processes you need to create an organizational wide vision/mission and goals. To do this you will need the support of your senior executive team.
+* **Assistant Deputy Minister**: Experience has proven that to transform your software development processes you need to create an organizational wide vision/mission and goals. To do this you will need the support of your senior executive team.
 
-##Support From Your Executive Director
-You will be unintentionally challenging the status-quo within your organization and you need to get the support of management. They will need to build or modify their existing processes and ways of working to accommodate for the scrum processes. [PSA/OCIO change team?]
+* **Executive Director**: You will be unintentionally challenging the status-quo within your organization and you need to get the support of management. They will need to build or modify their existing processes and ways of working to accommodate for the scrum processes. [PSA/OCIO change team?]
 
-##Support From Your Product Team
-Transforming or transitioning to an agile scrum mindset takes time and effort. Your team needs to be included in the dialogue when creating the vision, values and actions necessary to support your new working paradyme. One of the best methods for ensuring this happens is to employ and organizational design strategy. An explanation of how organizational design works can be found at the OD Network.[ADD LINK]
+* **Product Team**: Transforming or transitioning to an agile scrum mindset takes time and effort. Your team needs to be included in the dialogue when creating the vision, values and actions necessary to support your new working paradyme. One of the best methods for ensuring this happens is to employ and organizational design strategy. An explanation of how organizational design works can be found at the OD Network.[ADD LINK]
 
-##Checklist:
+###Checklist:
 * Get your ADM on board.
 * Get an executive sponsor at the Executive Director level.
 * Develop a vision for your agile transformation i.e. what is the value proposition for your organization? (Refer to the Business Model Canvas for ideas).

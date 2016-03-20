@@ -1,5 +1,5 @@
 ---
-title: ALIGN WITH AGILE AND SCRUM
+title: Align with Agile and Scrum
 ---
 
 ##Figure Out Why You Want To Become Agile
@@ -45,9 +45,11 @@ Scrum is a process framework that has been used to manage complex product develo
 
 Scrum makes clear the relative efficacy of your product management and development practices so that you can improve. The scrum framework consists of scrum teams and their associated roles, events, artifacts, and rules. For more information please visit the [Scrum Alliance Resources](https://www.scrumalliance.org/why-scrum/scrum-guide). 
 
-<img src="{%raw%}{{https://github.com/carolhoward/agile-guide.git}}{%endraw%}/images/agile_methods_used.jpg">
+<img src="{%raw%}{{site.baseurl}}{%endraw%}/images/agile_methods_used.jpg" alt="Agile Methods Used">
 
-Scrum is the most widely used framework within the agile methodology. Retrieved from https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/
+Scrum is the most widely used framework within the agile methodology. 
+
+Retrieved from https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/
 
 ##Complete a Value Proposition Canvas
 
