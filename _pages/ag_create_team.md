@@ -48,16 +48,17 @@ Once you have assembled your team, you’ll want to start working to create a vi
 
 In order to prepare each individual within your scrum team we recommend that they attend the following:
 
-	An agile fundamentals workshop that incorporates:
-	* Agile history
-	* Agile mindset
-	* The applicability of agile outside strict “software development”
+An agile fundamentals workshop that incorporates:
+
+* Agile history
+* Agile mindset
+* The applicability of agile outside strict “software development”
 	
-	One of the following:
+One of the following:
 	
-	* Scrum master training
-	* Scrum developer training
-	* Product owner training
+* Scrum master training
+* Scrum developer training
+* Product owner training
 
 It is the responsibility of the scrum master to ensure that the above coursework and training is made available to each team member. 
 
