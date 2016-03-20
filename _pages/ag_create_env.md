@@ -1,6 +1,7 @@
 ---
 title: Create Your Scrum Environment
 ---
+------------------------------------------------------------------
 
 ##Get Internal Support
 Not only should the scrum teams be prepared for the inevitable cultural shift, but the organization as a whole needs to understand the product team’s behaviour so that they can interact and communicate effectively. For example, as the scrum team responds to demands from the ministry service or program they may need to rapidly scale on a temporary basis by interacting with government’s vendor partners. They will need to do this quickly and often without being able to reference defined requirements. Therefore, product teams need to collaborate closely with their colleagues in finance to ensure an appropriate level of service and comfort. 
