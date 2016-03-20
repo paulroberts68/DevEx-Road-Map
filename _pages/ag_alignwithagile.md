@@ -1,7 +1,8 @@
 ---
 title: Align with Agile and Scrum
 ---
-=============================================================
+------------------------------------------------------------------
+
 ##Figure Out Why You Want To Become Agile
 
 Agile is a mindset backed by methodologies that leaves a trail of techniques. For our purposes, any software method is considered agile if it follows the [manifesto](http://agilemanifesto.org/principles.html), which states:
