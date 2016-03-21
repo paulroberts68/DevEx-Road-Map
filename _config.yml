@@ -28,7 +28,6 @@ expand_nav: true
 # List links that should appear in the site sidebar here
 navigation:
 - text: About This Guide
-  url: ag_about/
   internal: true
 - text: What is Agile?
   url: ag_intro/
@@ -47,12 +46,12 @@ navigation:
   internal: true
 
 repos:
-- name: Agile Scrum Guide
+- name: BC Agile Scrum Guide
   description: Main repository
-  url: https://github.com/bcgov/agile-guide.git
+  url: https://github.com/bcgov/agile-guide
 
 back_link:
-  url: "https://github.com/bcgov/guides/"
+  url: "https://github.com/bcgov"
   text: Read more BC Government Guides
 
 google_analytics_ua: UA-48605964-19

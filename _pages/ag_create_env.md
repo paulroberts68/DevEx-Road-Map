@@ -14,7 +14,7 @@ Get support from your:
 
 * **Executive Director**: You will be unintentionally challenging the status-quo within your organization and you need to get the support of management. They will need to build or modify their existing processes and ways of working to accommodate for the scrum processes. [PSA/OCIO change team?]
 
-* **Product Team**: Transforming or transitioning to an agile scrum mindset takes time and effort. Your team needs to be included in the dialogue when creating the vision, values and actions necessary to support your new working paradyme. One of the best methods for ensuring this happens is to employ and organizational design strategy. An explanation of how organizational design works can be found at the OD Network.[ADD LINK]
+* **Product Team**: Transforming or transitioning to an agile scrum mindset takes time and effort. Your team needs to be included in the dialogue when creating the vision, values and actions necessary to support your new working paradyme. One of the best methods for ensuring this happens is to employ and organizational design strategy. An explanation of how organizational design works can be found at the [OD Network](http://www.bcodn.org/).
 
 ###Checklist:
 * Get your ADM on board.
