@@ -34,15 +34,15 @@ There are many resources that describe how to run scrum. The [Scrum Alliance](ht
 
 Creating a product vision statement is essential for galvanizing your team into action. The vision can also be used as an important change-leveraging tool with all of your stakeholders. There are many ways of creating this vision. See the [Luma Institute](https://www.luma-institute.com/) or [Ideo.org](https://www.ideo.org/)  provide examples of this.
 
-##Create Your Initial Product Feature and Release Roadmap
+##Create Your Initial Product Feature & Release Roadmap
 
-Creating a product feature roadmap is a strategic tool that is a much more detailed companion to the broader product vision statement. The road map helps you communicate the direction, pace, and future state of the product. Essentially, it helps keep your team and stakeholders stay aligned.  
+Creating a product feature roadmap is a strategic tool that is a much more detailed companion to the broader product vision statement. The roadmap helps you communicate the direction, pace, and future state of the product. Essentially, it helps keep your team and stakeholders stay aligned.  
 
 ##Create Your Dedicated Team
 
 Creating a scrum team is not easy and you should not embark on the journey unless you have prepared the organizational environment to accept your agile experiment. To effectively run and support a scrum team you need “one part confidence, two parts humility and three parts sense of humour” (Fuda, 2009). 
 
-Scrum is based on the concept that there are three fixed quantities, people, time and quality. Therefore, the product manager needs to ensure that the core scrum team has dedicated people that can work on the backlog without distractions. 
+Scrum is based on the concept that there are three fixed quantities: people, time and quality. Therefore, the product manager needs to ensure that the core scrum team has dedicated people that can work on the backlog without distractions. 
 
 Another quality of a scrum team is synergy, that is, the interaction or cooperation of two or more agents to produce a combined effect greater than the sum of their separate effects. Continued collaboration within team members is essential to create this effect so it’s in the best interests of the organization to keep a scrum team together once formed. Often this will mean that line managers need to effectively “give-up” their staff to the scrum process; a difficult mindshift to establish.
 
@@ -50,9 +50,9 @@ Another quality of a scrum team is synergy, that is, the interaction or cooperat
 
 Once you have assembled your team, you’ll want to start working to create a vibrant working atmosphere; the aim being to create team synergy. One of the fastest ways to increase team communication, understanding and collaboration is to have them working in close proximity. This includes the user experience (UX), engagement, developers, subject matter experts (SMEs) and private sector team members.
 
-##Create a Training and Coaching Plan for Your Team
+##Create a Training & Coaching Plan
 
-In order to prepare each individual within your scrum team we recommend that they attend the following:
+To prepare each individual within your scrum team we recommend that they attend the following:
 
 An agile fundamentals workshop that incorporates:
 
@@ -70,9 +70,9 @@ It is the responsibility of the scrum master to ensure that the above coursework
 
 ##Make Sure Your Scrum Team is at AMM-Level 0
 
-It is important that you create a team that satisfies the conditions of the Agile Maturity Matrix (AMM) Level 0 as it is at this maturity level that your team will qualify for the OCIO Agile (Mode 2) Exception. The exception enables you to run your product team in an agile fashion and co-develop software with the private sector.
+It is important that you create a team that satisfies the conditions of the Agile Maturity Matrix (AMM) Level 0 because it is at this maturity level that your team will qualify for the OCIO Agile (Mode 2) Exception. The exception enables you to run your product team in an agile fashion and co-develop software with the private sector.
 
-To achieve the agile maturity base level (level 0) there are a minimum number of roles dedicated to the product scrum team:
+To achieve AMM Level 0 there are a minimum number of roles dedicated to the product scrum team:
 
 1. A dedicated executive **sponsor**.
 2. A dedicated **product owner** as described in the [US Digital Services ](https://playbook.cio.gov/)Playbook.
@@ -89,9 +89,9 @@ The government staff must be able apply design, architectural and coding standar
 
 There are four basic phases to product development:
 
-* prototyping
-* growth
-* maturity
-* sunset
+* Prototyping
+* Growth
+* Maturity
+* Sunset
 
 During each of these phases the team composition and size will differ; however, as a product owner you will rely on a core team to provide continuity throughout the product lifecycle. The core team composition needs to be aligned with the AMM and you must scale using your private sector partners. A quick rule of thumb is that 60% of your team can be core, the remainder should be provided by partners. Work with your finance team to design a process where you can scale within 1-2 weeks. You can also liaise with the people at the [BC Developer's Exchange](https://bcdevexchange.org/home).
