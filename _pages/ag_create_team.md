@@ -85,7 +85,7 @@ To effectively participant in agile projects, government product teams need to e
 
 The government staff must be able apply design, architectural and coding standards to the work that is submitted from both the broader public sector and private sector community partners in an open source procurement model or otherwise. Government staff will also be required to co-create code with this broader development community as well as work with user experience teams to develop proof of concepts and working prototypes. The government staff is also required to support the ongoing technology innovation of modern agile tool sets. To be compliant with this exception (and standard) your product development team must conform to the AMM-Level 0.
 
-##Make Sure You Can Scale Your Team Using Private Sector Partners
+##Make Sure You Can Scale Your Team
 
 There are four basic phases to product development:
 
@@ -94,4 +94,4 @@ There are four basic phases to product development:
 * Maturity
 * Sunset
 
-During each of these phases the team composition and size will differ; however, as a product owner you will rely on a core team to provide continuity throughout the product lifecycle. The core team composition needs to be aligned with the AMM and you must scale using your private sector partners. A quick rule of thumb is that 60% of your team can be core, the remainder should be provided by partners. Work with your finance team to design a process where you can scale within 1-2 weeks. You can also liaise with the people at the [BC Developer's Exchange](https://bcdevexchange.org/home).
+During each of these phases the team composition and size will differ; however, as a product owner you will rely on a core team to provide continuity throughout the product lifecycle. The core team composition needs to be aligned with the AMM and **you must scale using your private sector partners**. A quick rule of thumb is that 60% of your team can be core, the remainder should be provided by partners. Work with your finance team to design a process where you can scale within 1-2 weeks. You can also liaise with the people at the [BC Developer's Exchange](https://bcdevexchange.org/home).
