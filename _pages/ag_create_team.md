@@ -4,7 +4,13 @@ title: Create Your Scrum Team
 ------------------------------------------------------------------
 
 ##Develop Your Scrum Processes
-The scrum process is owned by a single champion. This individual will foster an atmosphere of inclusivity within the organization to create an enduring and repeatable scrum process that is used to convert value propositions to user stories and channel these through a prioritization process to the scrum team.
+The scrum process is owned by a single champion. This individual fosters an atmosphere of inclusivity within the organization to:
+
+* Create an enduring and repeatable scrum process 
+* Convert business needs to user stories
+* Prioritize the user stories
+* Communicate the user stories to the scrum team
+ 
 
 ###Must Do:
 1. Create a basic scrum process by involving the organization’s management team.
