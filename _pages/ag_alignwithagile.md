@@ -35,7 +35,7 @@ Retrieved from http://stateofagile.versionone.com/
 
 Setting up a scrum team is half the equation as operating in an agile fashion requires an understanding of the underpinning principles and values that brings the community together. Essentially, [the 12 agile principles](http://www.agilemanifesto.org/principles.html) allude to values such as adaptation, cooperation and adjustment. To achieve this, individuals within your product team must be:
  
-* Ppen to the concept of transparency on a number of levels as described in the Government’s Open By Default [TBD] initiative
+* Open to the concept of transparency on a number of levels as described in the Government’s Open By Default [TBD] initiative
 * Accepting of the fact that their project artifacts (including code) and methodologies will be open to inspection by people within and outside of their organization 
 
 These are critical behaviours that will improve the understanding of business needs as well as the overall quality of the products produced. Preparing and working to instill these values into the daily functions of the product team is critical. Training resources and links can be found in the Agile Wiki [TBD].
