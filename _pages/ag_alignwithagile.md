@@ -7,7 +7,7 @@ title: Align with Agile and Scrum
 
 Agile is a mindset backed by methodologies that leaves a trail of techniques. For our purposes, any software method is considered agile if it follows the [manifesto](http://agilemanifesto.org/principles.html), which states:
 
-* Individual and interactions over processes & tools
+* Individual and interactions over processes and tools
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
@@ -35,8 +35,8 @@ Retrieved from http://stateofagile.versionone.com/
 
 Setting up a scrum team is half the equation as operating in an agile fashion requires an understanding of the underpinning principles and values that brings the community together. Essentially, [the 12 agile principles](http://www.agilemanifesto.org/principles.html) allude to values such as adaptation, cooperation and adjustment. To achieve this, individuals within your product team must be:
  
-* open to the concept of transparency on a number of levels as described in the Government’s Open By Default [LINK NEEDED] initiative
-* accepting of the fact that their project artifacts (including code) and methodologies will be open to inspection by people within and outside of their organization 
+* Ppen to the concept of transparency on a number of levels as described in the Government’s Open By Default [TBD] initiative
+* Accepting of the fact that their project artifacts (including code) and methodologies will be open to inspection by people within and outside of their organization 
 
 These are critical behaviours that will improve the understanding of business needs as well as the overall quality of the products produced. Preparing and working to instill these values into the daily functions of the product team is critical. Training resources and links can be found in the Agile Wiki [TBD].
 
@@ -50,8 +50,8 @@ Scrum makes clear the relative efficacy of your product management and developme
 
 Scrum is the most widely used framework within the agile methodology. 
 
-Retrieved from https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/
+Retrieved from [https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/](https://blogs.versionone.com/agile_management/2015/06/02/is-extreme-programming-no-longer-relevant/)
 
 ##Complete a Value Proposition Canvas
 
-A value proposition canvas (for example, [Strategyzer](http://www.businessmodelgeneration.com/canvas/vpc)) enables you to describe and design an overview of what a customer needs and why . It is perfect, for example, as part of a business model review to document or present pains and gains of specific products for specific customer segments. As such, it helps to create a very good basis for product design.
+A value proposition canvas (for example, [Strategyzer](http://www.businessmodelgeneration.com/canvas/vpc)) enables you to describe and design an overview of what a customer needs and why. It is perfect, for example, as part of a business model review to document or present pains and gains of specific products for specific customer segments. As such, it helps to create a very good basis for product design.

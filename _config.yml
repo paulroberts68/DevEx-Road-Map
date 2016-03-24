@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: BC Agile Scrum Guide
+name: Agile Scrum Guide
 exclude:
 - CONTRIBUTING.md
 - Gemfile
