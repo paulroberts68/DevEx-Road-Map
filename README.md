@@ -1,4 +1,4 @@
-## Agile Guide Template
+## BC Gov Agile Development Guide
 
 This repo is based on the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)
