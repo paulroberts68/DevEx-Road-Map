@@ -18,7 +18,7 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: BC Government
+  name: Government of British Columbia
   url: https://www.gov.bc.ca
 
 # To expand all navigation bar entries by default, set this property to true:
