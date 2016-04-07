@@ -19,7 +19,7 @@ sass:
 # Author/Organization info to be displayed in the templates
 author:
   name: BC Government
-  url: https://bcgov.org
+  url: https://www.gov.bc.ca
 
 # To expand all navigation bar entries by default, set this property to true:
 expand_nav: true
@@ -51,7 +51,7 @@ repos:
   url: https://github.com/bcgov/agile-guide
 
 back_link:
-  url: "https://github.com/bcgov"
+  url: "https://guides.pathfinder.bcgov"
   text: Read more BC Government Guides
 
 google_analytics_ua: UA-48605964-19
