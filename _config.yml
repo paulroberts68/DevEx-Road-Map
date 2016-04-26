@@ -48,7 +48,7 @@ navigation:
   url: ag_Agile_Scrum_Maturity_Matrix/
   internal: true
 - text: Test To See If Your Team Is Agile
-  url: ag_Agility_Profile.md/
+  url: ag_Agility_Profile/
   internal: true
 
 repos:
