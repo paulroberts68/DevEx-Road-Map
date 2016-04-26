@@ -44,6 +44,9 @@ navigation:
 - text: Create Your Scrum Team
   url: ag_create_team/
   internal: true
+- text: Agile Maturity Matrix
+  url: ag_Agile_Scrum_Maturity_Matrix/
+  internal: true
 
 repos:
 - name: BC Agile Scrum Guide
