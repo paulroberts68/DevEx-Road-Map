@@ -47,6 +47,9 @@ navigation:
 - text: Agile Maturity Matrix
   url: ag_Agile_Scrum_Maturity_Matrix/
   internal: true
+- text: Test to see if your agile
+  url: ag_Agility_Profile.md/
+  internal: true
 
 repos:
 - name: BC Agile Scrum Guide
