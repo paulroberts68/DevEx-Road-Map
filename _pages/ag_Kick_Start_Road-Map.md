@@ -1,8 +1,4 @@
----
-title: "Kick Start Road-Map"
-published: true
----
-------------------------------------------------------------------
+##Kick Start Road-Map
 
 Go and talk to the people who are experiencing this challenge
 - Initial pitch deck created
@@ -20,3 +16,5 @@ Work with one or more teams that has expressed a need and develop ideas through 
 Evaluate and Refine the concierge MVP
 Engage potential delivery partners
 Confirm initial customer projects
+
+Vist the Kick Start [Kanboard](https://trello.com/b/X41e9VlZ/service-design)
