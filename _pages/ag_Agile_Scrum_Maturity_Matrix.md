@@ -1,8 +1,20 @@
 ---
-title: Agile Maturity Matrix
+title: "Kick Start Road-Map"
+published: true
 ---
 ------------------------------------------------------------------
 
-To be eligable to co-create digital applications under the agile-scrum interim standard your product team must be at or above the agile-scrum maturity matrix level 0: 
-
-<img src="{{site.baseurl}}/images/AMM.jpg" alt="AMM"> 
+Go and talk to the people who are experiencing this challenge
+- Initial pitch deck created
+- Gather case studies or examples from established sectors
+- Questio
+nnaire of needs created and used to gather information from potential early adopters
+Create a concept story and provide a potential solution that everyone can access and contribute to
+- Personas created
+- Initial business canvass completed
+- Journey map(s) built
+Work with one or more teams that has expressed a need and develop ideas through practice
+- Co-create the curriculum with an early adopter
+Evaluate and Refine the concierge MVP
+Engage potential delivery partners
+Confirm initial customer projects
